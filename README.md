@@ -1,3 +1,3 @@
 # Formulário Responsivo HTML / CSS
 
-- Desenvolver um formulário de responsivo usando as tecnologias HTML e CSS . 
+- Desenvolver um formulário responsivo usando as tecnologias HTML e CSS . 
